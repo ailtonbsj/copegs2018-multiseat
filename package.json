@@ -1,7 +1,7 @@
 {
-  "name": "eripi2018-scholarevents",
+  "name": "copegs2018-multiseat",
   "version": "0.0.1",
-  "description": "Slides da apresentação sobre o ScholarEvents",
+  "description": "Slides da apresentação sobre os Multiterminais",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
