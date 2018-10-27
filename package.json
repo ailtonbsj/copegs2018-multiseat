@@ -1,0 +1,19 @@
+{
+  "name": "eripi2018-scholarevents",
+  "version": "0.0.1",
+  "description": "Slides da apresentação sobre o ScholarEvents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slides",
+    "reveal.js",
+    "eripi"
+  ],
+  "author": "ailtonbsj <ailton.ifce@gmail.com> (https://ailtonbsj.wordpress.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^3.6.0"
+  }
+}
